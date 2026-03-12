@@ -6,7 +6,7 @@ PassCode is a simple password generator designed to create strong and secure pas
 
 If you experience issues or have questions about the app, please contact:
 
-support.passcode.app@gmail.com
+Support: tkmotrikkmoto333@gmail.com
 
 ## About the App
 
