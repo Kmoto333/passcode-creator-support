@@ -1,10 +1,4 @@
-<h1 align="center">PassCode Creator</h1>
-
-<p align="center">
-Strong Password Generator
-</p>
-
----
+# PassCode Creator
 
 ## Support
 
@@ -12,8 +6,7 @@ PassCode Creator is a simple password generator designed to create strong and se
 
 If you experience issues or have questions about the app, please contact:
 
-**Support:**  
-tkmotrikkmoto333@gmail.com
+Support: tkmotrikkmoto333@gmail.com
 
 ---
 
@@ -26,7 +19,7 @@ PassCode Creator allows you to generate secure passwords with customizable optio
 - Word-based password generation  
 - Password strength indicator  
 
-All passwords are generated **locally on your device**.
+All passwords are generated locally on your device.
 
 No passwords are stored or transmitted.
 
@@ -36,9 +29,9 @@ No passwords are stored or transmitted.
 
 PassCode Creator does not collect, store, or share personal data directly.
 
-Advertising in the app is provided by **Google AdMob**.
+Advertising in the app is provided by Google AdMob.
 
-View the full privacy policy:
+View the full privacy policy here:
 
 https://kmoto333.github.io/passcode-creator-privacy/
 
