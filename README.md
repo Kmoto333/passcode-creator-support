@@ -2,7 +2,7 @@
 
 ## Support
 
-PassCode Creator is a simple password generator designed to create strong and secure passwords directly on your device.
+PassCode Creator is a password generator designed to create strong and secure passwords directly on your device.
 
 If you experience issues or have questions about the app, please contact:
 
@@ -12,16 +12,20 @@ Support: tkmotrikkmoto333@gmail.com
 
 ## About the App
 
-PassCode Creator allows you to generate secure passwords with customizable options including:
+PassCode Creator allows you to generate and manage secure passwords with features including:
 
 - Adjustable password length  
 - Symbols, numbers, and uppercase letters  
-- Word-based password generation  
+- Optional word-based password generation  
 - Password strength indicator  
+- Password history (last 10 generated passwords)  
+- Save up to 5 passwords locally on your device  
+- Secure access to saved passwords via device passcode or Face ID / Touch ID  
+- Share passwords via system share options (Messages, etc.)
 
 All passwords are generated locally on your device.
 
-No passwords are stored or transmitted.
+Saved passwords and history are stored only on your device and are never transmitted.
 
 ---
 
